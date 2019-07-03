@@ -1,6 +1,0 @@
-#Codingbat string_times practice code by CS Dojo
-#printing string together mulitple times 
-#copied by BeeSting
-
-def string_times(str, n): 
-    return str * n
